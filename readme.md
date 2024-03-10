@@ -1,0 +1,1 @@
+Description: CodeLinterAI is an automated code review tool that uses machine learning to identify and suggest fixes for code quality issues. It integrates with popular IDEs and version control systems to streamline the development workflow and improve code maintainability.

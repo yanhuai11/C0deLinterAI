@@ -1,0 +1,26 @@
+{
+"name": "C0deLinterAI",
+"version": "1.0.0",
+"description": "CodeLinterAI is an automated code review tool that uses machine learning to identify and suggest fixes for code quality issues",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai11/C0deLinterAI.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai11",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
